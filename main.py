@@ -11,5 +11,5 @@ def twoSum(nums: List[int], target: int) -> List[int]:
                 else :
                     answer = [j, i] 
                     break
-    print(answer) 
+    print(answer)
     return answer
